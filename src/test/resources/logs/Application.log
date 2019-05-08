@@ -1,0 +1,104 @@
+06-05-2019 14:24:44.608 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:33:09.683 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:33:32.921 | DEBUG | main       | source.base.BaseTest:73    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 14:33:43.936 | DEBUG | main       | source.base.BaseTest:87    | test execution completed.
+06-05-2019 14:35:01.369 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:36:42.987 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:44:56.556 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:47:13.185 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:47:57.392 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:48:34.379 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:48:37.881 | DEBUG | main       | source.base.BaseTest:73    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 14:48:38.885 | DEBUG | main       | source.base.BaseTest:87    | test execution completed.
+06-05-2019 14:50:30.984 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:52:01.288 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:52:18.540 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:57:34.974 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 14:57:38.242 | DEBUG | main       | source.base.BaseTest:73    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 14:58:38.408 | DEBUG | main       | source.base.BaseTest:87    | test execution completed.
+06-05-2019 14:59:45.993 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:00:01.938 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:00:09.623 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:00:16.576 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:00:27.858 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:00:36.275 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:01:02.927 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:01:24.631 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:01:58.812 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:02:04.510 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:04:21.726 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:04:46.107 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:04:52.463 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:05:04.321 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:07:03.470 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:08:22.994 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 15:08:23.032 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 15:08:23.064 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 15:08:23.076 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:08:23.096 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 15:09:01.235 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:09:03.937 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 15:09:03.955 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 15:10:04.039 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 15:10:04.975 | INFO  | main       | e.utilities.TestUtil:27    | Screenshot for loginTest taken
+06-05-2019 15:10:05.143 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:10:05.212 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 15:13:54.279 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:13:57.741 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 15:13:57.761 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 15:13:58.637 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 15:13:58.936 | INFO  | main       | e.utilities.TestUtil:27    | Screenshot for loginTest taken
+06-05-2019 15:13:59.127 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 15:13:59.196 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 15:23:29.103 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 15:23:50.633 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 16:21:58.340 | INFO  | main       | eners.CustomListener:56    | 'Smoke' test finished
+06-05-2019 16:26:24.528 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 16:26:24.555 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 16:26:24.561 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 16:26:46.330 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 16:26:51.885 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 16:26:51.913 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 16:26:53.648 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 16:26:53.895 | INFO  | main       | e.utilities.TestUtil:27    | Screenshot for loginTest taken
+06-05-2019 16:26:54.109 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 16:26:54.181 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 17:04:11.416 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:04:17.835 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:04:17.853 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:04:19.799 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 17:04:19.868 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 17:21:12.744 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:21:18.152 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:21:18.169 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:23:24.777 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:23:28.631 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:23:28.649 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:26:11.224 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:26:16.665 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:26:16.685 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:27:49.591 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:28:12.016 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:28:12.060 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:28:12.094 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 17:28:12.103 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 17:28:12.120 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 17:31:37.002 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:31:42.805 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:31:42.820 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:31:43.450 | DEBUG | main       | urce.pages.LoginPage:36    | username '7773557661' entered
+06-05-2019 17:32:05.700 | ERROR | main       | eners.CustomListener:32    | 'loginTest' test has failed
+06-05-2019 17:32:05.741 | INFO  | main       | eners.CustomListener:56    | 'Login Test positive' test finished
+06-05-2019 17:32:05.820 | DEBUG | main       | source.base.BaseTest:69    | test execution completed.
+06-05-2019 17:35:16.303 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:35:53.129 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:36:27.395 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:36:40.643 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:36:40.661 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:36:41.300 | DEBUG | main       | urce.pages.LoginPage:36    | username '7773557661' entered
+06-05-2019 17:36:41.598 | DEBUG | main       | urce.pages.LoginPage:40    | '[[ChromeDriver: chrome on LINUX (6c5ac5b22299752ec0cc6205e728a7fe)] -> xpath: //span[text()='Войти']]' clicked
+06-05-2019 17:37:58.960 | DEBUG | main       | source.base.BaseTest:43    | config file loaded.
+06-05-2019 17:39:09.209 | DEBUG | main       | source.base.BaseTest:58    | navigated to: https://82.202.200.37:6501/customer/login
+06-05-2019 17:39:09.227 | INFO  | main       | eners.CustomListener:20    | 'loginTest' test started
+06-05-2019 17:39:09.817 | DEBUG | main       | urce.pages.LoginPage:36    | username '7773557661' entered
+06-05-2019 17:39:10.133 | DEBUG | main       | urce.pages.LoginPage:40    | 'Войти' clicked

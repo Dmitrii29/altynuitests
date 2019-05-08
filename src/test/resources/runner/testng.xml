@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "UC Tests ">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="kz.primesource.listeners.CustomListener"/>
+    </listeners>
+    <test name = "Login Test positive">
+        <classes>
+            <class name = "kz.primesource.tests.loginTests.LoginPositiveTest"/>
+        </classes>
+    </test>
+</suite>
